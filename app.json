@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "DataSnap",
+    "slug": "datasnap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "scheme": "datasnap",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.synthetic.datasnap"
+    },
+    "android": {
+      "package": "com.synthetic.datasnap"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-clipboard"
+    ]
+  }
+}
